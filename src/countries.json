@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Austria",
+        "image": "https://www.worldometers.info/img/flags/au-flag.gif",
+        "capital": "VIENNA"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Argentina",
+        "image": "https://www.worldometers.info/img/flags/ar-flag.gif",
+        "capital": "BUENOS AIRES"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Australia",
+        "image": "https://www.worldometers.info/img/flags/as-flag.gif",
+        "capital": "CANBERRA"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Burkina faso",
+        "image": "https://www.worldometers.info/img/flags/uv-flag.gif",
+        "capital": "OUAGADOUGOU"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Canada",
+        "image": "https://www.worldometers.info/img/flags/ca-flag.gif",
+        "capital": "OTTAWA"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Chile",
+        "image": "https://www.worldometers.info/img/flags/ci-flag.gif",
+        "capital": "SANTIAGO"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Costa Rica",
+        "image": "https://www.worldometers.info/img/flags/cs-flag.gif",
+        "capital": "SAN JOSE"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "France",
+        "image": "https://www.worldometers.info/img/flags/fr-flag.gif",
+        "capital": "PARIS"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "India",
+        "image": "https://www.worldometers.info/img/flags/in-flag.gif",
+        "capital": "NEW DELHI"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Japan",
+        "image": "https://www.worldometers.info/img/flags/ja-flag.gif",
+        "capital": "TOKYO"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "New Zealand",
+        "image": "https://www.worldometers.info/img/flags/nz-flag.gif",
+        "capital": "WELLINGTON"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Singapore",
+        "image": "https://www.worldometers.info/img/flags/sn-flag.gif",
+        "capital": "SINGAPORE"
+      }
+      
+]

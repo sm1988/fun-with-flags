@@ -1,0 +1,27 @@
+.header-top{
+  background-color: purple;
+}
+.content {
+  margin-top: 150px;
+
+}
+.h1-top {
+  color: white;
+  height: 150px;
+}
+
+.header-img{
+  background-image: url('header-img.png');
+  margin-top: 10px;
+  background-size: 130px;
+  background-repeat: no-repeat;
+} 
+
+.card {
+  margin: 15px;
+}
+
+.title{
+  padding-top: 20px;
+  text-align: justify;
+}
